@@ -2,11 +2,10 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- *
  *main - Entry point
- *Description:Write a program that prints the alphabet in lowercase
  * return: always 0 (success)
  */
+/* betty style doc for function main goes there */
 int main(void)
 {
 char n;
