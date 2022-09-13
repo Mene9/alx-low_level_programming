@@ -10,18 +10,18 @@ int main(void)
 {
 
 int n;
-int nlast
+int n Last
 	srand(time(0));
 n = rand() - RAND_MAX / 2;
 
-	last n = n % 10;
+last = n % 10;
 
-	if (last n > 5)
-		printf("last digit of %d is %d and is greater than 5\n", n, Last n);
-	else if (last_n ==)
-		printf("last digiit of %d is %d and is 0\n", Last n);
-	else
-		printf("Last digit of %d is %d and is 6 not 0\n", Last n);
-	return (0);
+if (Last n > 5)
+	printf("Last digit of %d is %d and is greater than 5\n", n  Last)
+	else if (Last == 0)
+		printf("Last digiit of %d is %d and is 0\n", n  Last);
+else
+	printf("Last digit of %d is %d and is 6 not 0\n", Last);
+return (0);
 
 }
