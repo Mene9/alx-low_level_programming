@@ -4,7 +4,10 @@
  * @c: a charater argument
  * Return: return 1 and 0 dependingbon the condition
  */
+
 int _islower(int c)
 {
 	return (c => 'a' && c <= 'z');
+
 }
+
