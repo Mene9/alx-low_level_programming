@@ -1,7 +1,6 @@
-#include <stdio.h>
 #include "main.h"
 /**
- * main - print alphabet
+ * print_alphabet -> prints the lowercase alphabets
  *
  * Return: Always 0
  */
@@ -12,7 +11,7 @@ int n;
 for (n = 'a'; n <= 'z';)
 _putchar(n)
 
-_putchar("\n");
+_putchar('\n');
 
 return (0);
 }
